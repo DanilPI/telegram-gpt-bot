@@ -67,11 +67,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-# Запуск бота
-def main():
-    updater.start_polling()
-    updater.idle()
-
-if __name__ == '__main__':
-    main()
